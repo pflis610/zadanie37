@@ -1,0 +1,21 @@
+h1 {
+    background-color: bisque;
+    color: brown;
+}
+#tekst {
+    background-color: cornsilk;
+    color: darkblue;
+}
+#dodaj {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: mediumaquamarine;
+    font-weight: bold;
+}
+#usun {
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: palevioletred;
+}
